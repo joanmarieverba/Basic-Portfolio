@@ -36,7 +36,8 @@ a {
 
 .leftbox img {
     float: left;
-    padding-right: 5px;
+   /* padding-right: 5px;*/
+   margin: 15px;
 }
 
 .leftbox h1 {
@@ -45,16 +46,7 @@ a {
     margin-bottom: 15px;
 
 }
-/*
-.leftboxcontact {
-    width: 650px;
-    border: 1px solid #000;
-    text-align: left;
-    background-color: #ffffff;
-    margin-left: 100px;
-    margin-top: 20px;
-    margin-right: 40px;
-}  */
+
 
 nav ul {
     top: 0;
