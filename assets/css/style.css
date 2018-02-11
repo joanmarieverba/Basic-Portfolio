@@ -12,6 +12,13 @@ li {
     padding: 0;
 }
 
+.innerbox ul li {
+    display: inline-block;
+    /*top right bottom left*/
+    margin: 0;
+    padding: 0; 
+}
+
 a {
     font-size: 18px;
 }
@@ -24,6 +31,7 @@ a {
     background-color: #ffffff;
     margin-left: 100px;
     margin-top: 20px;
+    margin-right: 40px;
 }
 
 .leftbox img {
