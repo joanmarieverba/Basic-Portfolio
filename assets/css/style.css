@@ -3,13 +3,13 @@ instructor: #ff4081 p-light #ff79b0 p-dark: #c60055 secondary #e676e6 S-light #6
 
 
 body {
-    background-color: #ff79ff;
+    background-color: #4aaaa5;
 }
 
 h1 {
-    font-family: 'Oswald', sans-serif;
-    font-size: 36px;
-    text-align: center;
+    font-family: 'Georgia', serif;
+    font-size: 24px;
+    text-align: left;
 }
 
 
@@ -20,14 +20,29 @@ li {
 }
 
 a {
-    font-size: 48px;
+    font-size: 18px;
 }
 
+.leftbox {
+    display: inline-block;
+    width: 650px;
+    border: 1px solid #000;
+    text-align: left;
+    background-color: #ffffff;
+}
 
+.social {
+    display: inline-block;
+    width: 270px;
+    border: 1px solid #000;
+    text-align: center;
+    background-color: #ffffff;
+}
 
 /* grab all a links in the footer*/
 footer {
-
-    background-color: : gray;
-    font-size: 22px;
+    background-color: #ffffff;
+    color: #777777
+    font-size: 12px;
+    text-align: center;
 }
