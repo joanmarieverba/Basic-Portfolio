@@ -28,6 +28,7 @@ nav ul {
     margin-left: 100px;
     margin-top: 20px;
     margin-right: 40px;
+    float: left;
 }
 
 .leftbox img {
@@ -48,6 +49,8 @@ nav ul {
     border: 1px solid #000;
     text-align: center;
     background-color: #ffffff;
+    margin-top: 20px;
+    float: left;
 }
 
 .innerbox {
