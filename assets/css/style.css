@@ -147,10 +147,16 @@ div.item {
     vertical-align: top;
     display: inline-block;
     text-align: center;
-    width: 120px;
+    width: 150px;
     margin-right: 60px;
+    position: relative;
 }
 
 .caption {
-    display: block;
+    margin-top: 105px;
+    padding-left: 15px;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    z-index: 100;
 }
