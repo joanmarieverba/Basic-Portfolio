@@ -71,11 +71,11 @@ nav ul {
 .innerbox ul li {
     display: inline-block;
     margin: 0;
-    padding: 0; 
+    padding: 0;
 }
 
 .innerbox ul {
-    padding: 0; 
+    padding: 0;
 }
 
 header h1 {
@@ -108,6 +108,15 @@ h4 {
     padding-top: 0;
 }
 
+.boxwidth {
+  width: 550px;
+}
+
+.msgbox {
+  width: 550px;
+  height: 130px;
+}
+
 bottomborder {
     background-color: #4aaaa5;
     height: 10px;
@@ -125,7 +134,8 @@ footer {
     text-align: center;
     height: 40px;
     padding-top: 25px;
-    position: fixed;
+/*    position: fixed;*/
+    position: absolute;
     width: 100%;
     bottom: 0;
 }
