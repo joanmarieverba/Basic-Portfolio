@@ -46,8 +46,7 @@ nav ul {
 
 .leftbox img {
     float: left;
-   /* padding-right: 5px;*/
-   margin: 15px;
+    margin: 15px;
 }
 
 .leftbox h1 {
@@ -140,7 +139,6 @@ footer {
     text-align: center;
     height: 40px;
     padding-top: 25px;
-/*    position: fixed;*/
     position: absolute;
     width: 100%;
     bottom: 0;
