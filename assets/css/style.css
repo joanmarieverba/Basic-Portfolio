@@ -1,5 +1,10 @@
 body {
     background-color: #dddddd;
+    min-height: 100%;
+}
+
+html {
+  min-height: 100%;
 }
 
 .top {
@@ -106,6 +111,7 @@ h4 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
     padding-top: 0;
+    line-height: 1.5;
 }
 
 .boxwidth {
